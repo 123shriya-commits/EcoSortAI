@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Hugging Face Cache
+.cache/
+
+# AI Models
+*.pt
+
+# Environment Files
+.env
+
+# VS Code
+.vscode/
