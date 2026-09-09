@@ -8,6 +8,13 @@ The application helps users understand how an item should be disposed of and pro
 
 ---
 
+## 🚀 Live Demo
+
+[🌐 Open EcoSort AI](https://ecosort-ai-shriya.streamlit.app)
+
+---
+
+
 ## 🌟 Features
 
 - 🤖 AI-powered object detection
